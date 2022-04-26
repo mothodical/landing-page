@@ -101,3 +101,12 @@ cite {
 .section-4, button {
     background-color: olivedrab;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #e5e7eb;
+    font-size: 18px;
+    height: 100px;
+}
