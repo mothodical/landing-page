@@ -27,6 +27,18 @@ a {
     color: #e5e7eb;
 }
 
+.section-1 button {
+    padding: 10px;
+    border-radius: 10px; 
+    border-style: none;
+    background-color: #007d00;
+    color: #e5e7eb; 
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
 .top-image {
     width: 500px;
     height: auto;
@@ -98,8 +110,35 @@ cite {
 
 
 /* SECTION FOUR - CALL TO ACTION */
-.section-4, button {
-    background-color: olivedrab;
+.section-4 {
+    background-color: #007d00;
+    color: #e5e7eb;
+    margin: 100px 200px;
+    padding: 75px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.call-to-action {
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.sub-call {
+    font-size: 24px;
+}
+
+.section-4 button {
+    background-color: #007d00;
+    color: #e5e7eb;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: white;
+    border-style: solid;
+
 }
 
 .footer {
