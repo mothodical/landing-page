@@ -87,11 +87,18 @@ a {
 /* SECTION THREE - QUOTE */
 .section-3 {
     background-color: #e5e7eb;
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 100px;
+    max-width: 50%;
 }
 
 blockquote {
