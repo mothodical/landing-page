@@ -75,6 +75,11 @@ a {
 /* SECTION THREE - QUOTE */
 .section-3 {
     background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
 }
 
 blockquote {
@@ -82,6 +87,13 @@ blockquote {
     font-weight: 100px;
     font-style: italic;
     color: #1f2937;
+}
+
+cite {
+    font-weight: 700;
+    font-size: 25px;
+    font-style: normal;
+    align-self: flex-end;
 }
 
 
