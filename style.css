@@ -187,9 +187,11 @@ cite {
     font-weight: bold;
     font-size: 20px;
     padding: 10px;
+    margin-left: 10px;
     border-radius: 10px;
     border-color: white;
     border-style: solid;
+    white-space: nowrap;    
 }
 
 .footer {
