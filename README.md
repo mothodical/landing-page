@@ -1,6 +1,6 @@
 Landing Page Project
 
-[screenshot to come]
+Screenshot: [screenshot.png]
 
 Objective: Recreates a web page based on a provided design image
 
